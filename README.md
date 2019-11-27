@@ -1,8 +1,5 @@
 # Papers
 
-## IB
-*As these ones were written during IB programme, watch out for self-reflective bullshit.*
-
 ### Arc routing techniques
 *"How can arc routing techniques contribute to optimization of winter gritters
 routes"*
@@ -16,5 +13,3 @@ Intro to bezier curves and intersections between mathematics, vector graphics & 
 [Preview](https://github.com/teodortymon/Papers/blob/master/Bezier%20curves.pdf) /
 [Direct link](https://github.com/teodortymon/Papers/raw/master/Bezier%20curves.pdf)
 
-### CV
-[Preview](https://github.com/teodortymon/Papers/blob/master/cv.pdf)
